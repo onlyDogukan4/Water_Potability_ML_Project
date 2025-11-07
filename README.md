@@ -78,4 +78,4 @@ Model performansları, RandomizedSearchCV ve RepeatedStratifiedKFold optimizasyo
 
 * 📧 **E-posta**: dogukansark44@gmail.com
 * 🌐 **GitHub**: [github.com/onlyDogukan4](https://github.com/onlyDogukan4)
-* 💼 **LinkedIn**: [linkedin.com/in/dogukansark] https://linkedin.com/in/dogukansark](https://www.linkedin.com/in/do%C4%9Fukan-%C5%9Fark-95658327a/
+* 💼 **LinkedIn**: [linkedin.com/in/dogukansark] www.linkedin.com/in/doğukan-şark-95658327a
