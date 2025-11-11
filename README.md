@@ -4,7 +4,7 @@ _Hazırlayan: Doğukan Sark_
 
 📘 Proje Özeti
 
-Bu proje, suyun içilebilirliğini (potability) belirlemek amacıyla çeşitli kimyasal ve fiziksel özelliklere dayalı bir uçtan uca veri bilimi çalışmasıdı.
+Bu proje, suyun içilebilirliğini (potability) belirlemek amacıyla çeşitli kimyasal ve fiziksel özelliklere dayalı bir uçtan uca veri bilimi çalışmasıdır.
 
 Amaç, suyun pH değeri, sertliği, çözünmüş katı madde oranı, sülfat ve trihalometan düzeyleri gibi özelliklerin içilebilirlik üzerindeki etkisini analiz etmek ve bu verilerle suyun içilebilir olup olmadığını tahmin eden bir makine öğrenimi modeli geliştirmektir.
 
