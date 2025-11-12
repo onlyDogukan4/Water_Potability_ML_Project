@@ -22,7 +22,7 @@ Proje, veri temizleme, görselleştirme, modelleme ve değerlendirme aşamaları
 
 ---
 
-## 🧰 Kullanılan Teknolojiler  
+## 🧰 Kullanılan Teknolojiler
 
 | Kategori | Kütüphane / Araç |
 
