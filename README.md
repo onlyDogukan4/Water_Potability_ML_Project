@@ -1,4 +1,4 @@
-# 💧 Su İçilebilirlik Analizi (Water Potability Analysi
+# 💧 Su İçilebilirlik Analizi (Water Potability Analysi)
 
 _Hazırlayan: Doğukan Sark_
 
