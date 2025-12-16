@@ -12,7 +12,7 @@ Proje, veri temizleme, görselleştirme, modelleme ve değerlendirme aşamaları
 
 ---
  
-## 🚀 Öne Çıkan Özellikler ve Metodoloji 
+## 🚀 Öne Çıkan Özellikler ve Metodoloji
 
 * 📊 Veri Keşfi (EDA): Seaborn, Matplotlib ve Plotly kullanılarak kapsamlı görselleştirmeler ile veri dağılımının ve değişkenler arası ilişkilerin incelenmesi.
 * 🧹 Eksik Veri İşleme (Imputation): Eksik değerlerin (NaN) dağılımı Missingno kütüphanesi ile incelendikten sonra, medyan tabanlı doldurma (imputation) yöntemiyle yönetilmesi.
