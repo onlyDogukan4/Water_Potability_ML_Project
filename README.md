@@ -10,7 +10,7 @@ Amaç, suyun pH değeri, sertliği, çözünmüş katı madde oranı, sülfat ve
 
 Proje, veri temizleme, görselleştirme, modelleme ve değerlendirme aşamalarının tümünü göstermektedir ve tamamen Google Colab uyumlu olarak hazırlanmıştır.
  
----
+--- 
 ## 🚀 Öne Çıkan Özellikler ve Metodoloji
 
 * 📊 Veri Keşfi (EDA): Seaborn, Matplotlib ve Plotly kullanılarak kapsamlı görselleştirmeler ile veri dağılımının ve değişkenler arası ilişkilerin incelenmesi.
