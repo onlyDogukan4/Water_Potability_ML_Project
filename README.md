@@ -1,7 +1,7 @@
 # 💧 Su İçilebilirlik Analizi (Water Potability Analysi)
    
 _Hazırlayan: Doğukan Sark_ 
-
+ 
 📘 Proje Özeti 
   
 Bu proje, suyun içilebilirliğini (potability) belirlemek amacıyla çeşitli kimyasal ve fiziksel özelliklere dayalı bir uçtan uca veri bilimi çalışmasıdır.
