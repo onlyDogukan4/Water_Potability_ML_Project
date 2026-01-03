@@ -9,7 +9,7 @@ Bu proje, suyun içilebilirliğini (potability) belirlemek amacıyla çeşitli k
 Amaç, suyun pH değeri, sertliği, çözünmüş katı madde oranı, sülfat ve trihalometan düzeyleri gibi özelliklerin içilebilirlik üzerindeki etkisini analiz etmek ve bu verilerle suyun içilebilir olup olmadığını tahmin eden bir makine öğrenimi modeli geliştirmektir.
 
 Proje, veri temizleme, görselleştirme, modelleme ve değerlendirme aşamalarının tümünü göstermektedir ve tamamen Google Colab uyumlu olarak hazırlanmıştır.
-
+ 
 ---
 ## 🚀 Öne Çıkan Özellikler ve Metodoloji
 
