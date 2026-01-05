@@ -1,5 +1,5 @@
 # 💧 Su İçilebilirlik Analizi (Water Potability Analysi) 
-   
+
 _Hazırlayan: Doğukan Sark_  
  
 📘 Proje Özeti 
